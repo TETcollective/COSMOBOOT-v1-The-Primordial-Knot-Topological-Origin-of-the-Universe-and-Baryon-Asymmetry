@@ -13,4 +13,3 @@ Inspired by KNOTBOOT and BOOTTECH.
 
 The Big Bang was a knot. ❤️✨
 
-Zenodo DOI: (after upload)
